@@ -1,0 +1,5 @@
+Model,Confidence,Observations,Violations,Violation rate,Expected rate
+Baseline,95%,1515,107,0.07062706270627063,0.05
+Baseline,99%,1515,22,0.014521452145214522,0.01
+Sentiment,95%,1474,97,0.06580732700135686,0.05
+Sentiment,99%,1474,24,0.016282225237449117,0.01
